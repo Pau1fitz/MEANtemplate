@@ -1,4 +1,5 @@
-<h1>To Use this template
+<h1>MEAN Template
+<h4>Instructions
 
 <ol>
 <li>Clone the repository
